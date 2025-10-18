@@ -6,5 +6,6 @@ public class Rakesh {
 	{
 		System.out.println("Rakesh nayak");
 		System.out.println("Biswajit Dash");
+		System.out.println("Simun");
 	}
 }
